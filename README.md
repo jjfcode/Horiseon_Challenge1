@@ -34,7 +34,7 @@ To see the web Page:
 
 ## Credits
 
-I used https://www.w3schools.com/ to check some elements
+I used https://www.w3schools.com/ to check some elements and https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide for help on my README.
 
 ## License
 
