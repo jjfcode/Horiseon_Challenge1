@@ -2,53 +2,49 @@
 
 ## Description
 
-GIVEN a webpage meets accessibility standards<br>
-WHEN I view the source code<br>
-THEN I find semantic HTML elements<br>
-<ul>
-    <li>Change the div with class header for a Header element, inside the header and a nav.</li>
-    <li>Change the div class hero for a figure element.</li>
-    <li>Change the div with class content for a main element, inside the main change the div for section elements.</li>
-    <li>Change de div with class benefits for a aside element.</li>
-    <li>Change de div with class footer for el footer element.</li>
-    <li>Fix a broken link on the nav and a missing id.</li>
-</ul>
-WHEN I view the structure of the HTML elements<br>
-THEN I find that the elements follow a logical structure independent of styling and positioning<br>
-<br>
-<ul>
-    <li>Organized the CSS and add comment.</li>
-</ul>
-WHEN I view the image elements<br>
-THEN I find accessible alt attributes<br>
-<br>
-<ul>
-    <li>On the main section and aside section add alt attribute.</li>
-</ul>
-WHEN I view the heading attributes<br>
-THEN they fall in sequential order<br>
-<br>
-<ul>
-    <li>Fix heading order</li>
-</ul>
-WHEN I view the title element<br>
-THEN I find a concise, descriptive title<br>
-<br>
-<ul>
-    <li>Fix the title.</li>
-</ul> 
+GIVEN a webpage meets accessibility standards  
+WHEN I view the source code  
+THEN I find semantic HTML elements
+* Change the div with class header for a Header element, inside the header and a nav.
+* Change the div class hero for a figure element.
+* Change the div with class content for a main element, inside the main change the div for section elements.
+* Change de div with class benefits for a aside element.
+* Change de div with class footer for el footer element.
+* Fix a broken link on the nav and a missing id.
+
+WHEN I view the structure of the HTML elements  
+THEN I find that the elements follow a logical structure independent of styling and positioning  
+
+* Organized the CSS and add comment.
+
+WHEN I view the image elements  
+THEN I find accessible alt attributes
+
+* On the main section and aside section add alt attribute.
+
+WHEN I view the heading attributes  
+THEN they fall in sequential order
+
+* Fix heading order.
+
+WHEN I view the title element  
+THEN I find a concise, descriptive title  
+
+* Fix the title.
+
 ## Table of Contents (Optional)
 
 ## Installation
 
 ## Usage
 
-<strong>To see the web Page:</strong><br>
-    https://jjfcode.github.io/Horiseon_Challenge1/
+**Link of the web Page:**
+
+[Github Page](https://jjfcode.github.io/Horiseon_Challenge1/)
 
 ## Credits
 
-I used https://www.w3schools.com/ to check some elements and https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide for help on my README.
+I used [W3schools](https://www.w3schools.com/) to check some elements and [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) for help on my README.
 
 ## License
 
