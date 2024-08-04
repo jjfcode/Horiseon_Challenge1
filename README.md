@@ -11,32 +11,32 @@ THEN I find semantic HTML elements<br>
     <li>Change the div with class content for a main element, inside the main change the div for section elements.</li>
     <li>Change de div with class benefits for a aside element.</li>
     <li>Change de div with class footer for el footer element.</li>
-</ul><br>
+    <li>Fix a broken link on the nav and a missing id.</li>
+</ul>
 WHEN I view the structure of the HTML elements<br>
 THEN I find that the elements follow a logical structure independent of styling and positioning<br>
 <br>
 <ul>
     <li>Organized the CSS and add comment.</li>
-</ul><br>
+</ul>
 WHEN I view the image elements<br>
 THEN I find accessible alt attributes<br>
 <br>
 <ul>
     <li>On the main section and aside section add alt attribute.</li>
-</ul><br>
+</ul>
 WHEN I view the heading attributes<br>
 THEN they fall in sequential order<br>
 <br>
 <ul>
     <li>Fix heading order</li>
-</ul><br>
+</ul>
 WHEN I view the title element<br>
 THEN I find a concise, descriptive title<br>
 <br>
 <ul>
     <li>Fix the title.</li>
-</ul>
-    
+</ul> 
 ## Table of Contents (Optional)
 
 ## Installation
