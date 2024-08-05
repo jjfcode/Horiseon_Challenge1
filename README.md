@@ -38,7 +38,7 @@ THEN I find a concise, descriptive title
 
 ## Usage
 
-![alt text](assets/images/screenshot1.png)
+![alt text](./assets/images/Screenshot1.png)
 
 **Link of the web Page:**
 
