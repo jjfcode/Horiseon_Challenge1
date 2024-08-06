@@ -40,8 +40,10 @@ THEN I find a concise, descriptive title
 
 ![alt text](./assets/images/Screenshot1.png)
 
-**Link of the web Page:**
+**Repo:**
+[Github Repo](https://github.com/jjfcode/Horiseon_Challenge1)
 
+**Link of the web Page:**
 [Github Page](https://jjfcode.github.io/Horiseon_Challenge1/)
 
 ## Credits
